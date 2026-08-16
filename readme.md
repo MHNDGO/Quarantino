@@ -26,3 +26,5 @@ If you enjoyed it, or found it mildly useful, supporting me via this link would 
 Even a dollar can make a difference honestly, but of course, it is your choice, I am not nagging, please enjoy Quarentino!
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hondacivic0000)
+
+Of course, this app is only for you to use on apps that YOU explicitly trust not to be malware, you should use this tool with safety in mind, if any malware ended up happening, then that is entirely. I hold no responsibility for running infected apps on your Mac.
