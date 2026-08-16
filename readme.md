@@ -9,6 +9,8 @@ Even if the app did not contain malware at all, Apple would flag it as malware, 
 
 I eventually figured out a way to do so, by using "xattr" in the terminal to remove the quarantine attribute, but I eventually grew tired of it, and made this app entirely in native SwiftUI.
 
+![screenshot](screenshot.png)
+
 If you haven't noticed, the name is a pun on Quarantine + Cupertino, pretty creative in my opinion, ehe.
 
 It supposedly works on MacOS 13 to MacOS 26, and should theoritically work on newer releases, but it was only tested on MacOS 26 as of the time the initial build was released.
@@ -24,8 +26,6 @@ Oh, and most imporantly, it has Asuka, ehehe
 If you enjoyed it, or found it mildly useful, supporting me via this link would mean TONS AND TONS AND TONS TO ME!!!
 
 Even a dollar can make a difference honestly, but of course, it is your choice, I am not nagging, please enjoy Quarentino!
-
-![screenshot](screenshot.png)
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hondacivic0000)
 
