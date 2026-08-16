@@ -9,6 +9,8 @@ Even if the app did not contain malware at all, Apple would flag it as malware, 
 
 I eventually figured out a way to do so, by using "xattr" in the terminal to remove the quarantine attribute, but I eventually grew tired of it, and made this app entirely in native SwiftUI.
 
+If you haven't noticed, the name is a pun on Quarantine + Cupertino, pretty creative in my opinion, ehe.
+
 It supposedly works on MacOS 13 to MacOS 26, and should theoritically work on newer releases, but it was only tested on MacOS 26 as of the time the initial build was released.
 
 It works on both Intel and Apple Silicon, it is TINY! Only like 250 kilobytes, and the .dmg file is only around a megabyte in size.
